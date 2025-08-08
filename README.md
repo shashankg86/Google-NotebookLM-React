@@ -40,6 +40,8 @@ This project is built entirely **frontend-only** to remain free and simple to de
 
 <img width="589" height="538" alt="image" src="https://github.com/user-attachments/assets/14c3fe54-c5ca-4c2e-94bb-4799e307189e" />
 
+Live App: https://brilliant-crumble-15522a.netlify.app/
+
 
 
 
