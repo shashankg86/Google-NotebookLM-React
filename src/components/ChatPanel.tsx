@@ -47,6 +47,10 @@ export default function ChatPanel({ chunks, viewerApi, documentReady }: ChatPane
   const [loading, setLoading] = useState(false);
   const [indexReady, setIndexReady] = useState(false);
 
+  useEffect(() => {
+    console.log('Netlify ENV:', import.meta.env.VITE_OPENROUTER_KEY);
+  }, []);
+
   const subchunks = useMemo(() => {
     const list: { page: number; text: string }[] = [];
     for (const c of chunks) {
