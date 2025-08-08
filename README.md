@@ -36,3 +36,12 @@ This project is built entirely **frontend-only** to remain free and simple to de
 3): npm run dev
 
 
+<img width="1506" height="927" alt="image" src="https://github.com/user-attachments/assets/20a6f799-3b0c-4af6-b12d-6ba7308dc0f5" />
+
+<img width="589" height="538" alt="image" src="https://github.com/user-attachments/assets/14c3fe54-c5ca-4c2e-94bb-4799e307189e" />
+
+Live App: https://brilliant-crumble-15522a.netlify.app/
+
+
+
+
