@@ -30,7 +30,6 @@ export default function MainApp({ file, onBack }: { file: File, onBack: () => vo
             <button onClick={onBack} className="text-sm text-gray-600">← Back</button>
             <h2 className="font-semibold">NotebookLM Clone</h2>
           </div>
-          <div className="text-sm text-gray-500">Free demo — local only</div>
         </div>
       </header>
 

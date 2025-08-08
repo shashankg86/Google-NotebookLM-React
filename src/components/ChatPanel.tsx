@@ -79,7 +79,6 @@ export default function ChatPanel({ chunks, viewerApi, documentReady }: ChatPane
     return res.map(r => ({ page: r.item.page, text: r.item.text, score: r.score ?? 1 }));
   }
 
-  console.log("OpenRouter key from env:", import.meta.env.VITE_OPENROUTER_KEY);
 
   async function callOpenRouter(contextText: string, question: string) {
     const key = import.meta.env.VITE_OPENROUTER_KEY;
